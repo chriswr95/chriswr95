@@ -5,6 +5,9 @@ chriswr@me.com - cwright.dev/resume
 I'm a bioengineer turned computer scientist with three years of professional experience. My bread and butter is the backend; designing and building serverless architectures on AWS services.
 
 ### Work Experience
+Software Development Engineer II, **Twitter**, August 2021 - Present
+  * Tweeting, mostly...
+
 Software Development Engineer, **Amazon Video Shopping**, July 2020 - Present
   * Architected and built video validation feature to catch defective videos uploaded to Amazon. Written in Java, and still in production, the lambda has evaluated over 2 million videos based on size, length, and completeness. The feature drove a reduction of the defect rate of videos shown on Amazon.com by 0.5%.
   * Architected and built GDPR compliance for videos shown on Amazon.com. The service is written in Java using AWS services such as Step Functions, Lambda, DynamoDB, SQS, and SNS. It processes between 2,000 and account deletion requests 5,000 requests per day.
