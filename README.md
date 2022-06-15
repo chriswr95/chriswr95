@@ -1,5 +1,5 @@
 ### Christopher Wright
-chriswr@me.com - cwright.dev/resume
+cwright.dev/resume
 
 ### Overview
 I'm a bioengineer turned computer scientist with three years of professional experience. My bread and butter is the backend; designing and building serverless architectures on AWS services.
